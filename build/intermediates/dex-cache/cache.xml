@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_22d763e597e16ec44f318ef4c814afd8562becd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_bd68a99846173a088c7e5f02e73fbee0a95737d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_e01aef46c31ae6619060d98276b47011bcd896ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1a7063f1dd10e3e4ae52373dcc9319172516ea8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bb373d764fe3bbd5393fb7bd7856a24308f1beb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_56e75d60d76655f87c8015a7f967ede5270dba34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_d26b02ccc43b204f9dc28b7b99273cbedb66d6f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_d4d8cd5f7445d29f16cf3b138c017d6fb4b20aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_182881de60a845c6bcef21354c08b1971529cf67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_1c380731a49c1d0a1a886d7954d38c97fecac1e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_35f3eed04af74f47318d4ac093cefefa8b47f8b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_421e840349c3b70eac26a9967d483a7af7cbea55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.github.shchurov/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d419c3df5fa37c8ab09ef22cda955dbf6c1d8d4a">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.github.shchurov-library-unspecified_57579de516f2ff907f94b9d701cbb188a76a39e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_93a610867c87c5ceb2c6227fc16f6cf89493d38f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_c552349b194f4fca6be9a2f747c299ff5c8af8bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/huangjunren/Downloads/HorizontalWheelView-master/sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_0ef17de7b2bb2eed45c79bfb67689e0c1dc0df33.jar" />
+    </item>
+
+</items>
